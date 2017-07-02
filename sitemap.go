@@ -46,7 +46,7 @@ var client http.Client       	 //http客户端
 func main() {
     //任务设置
     //要访问的域名，即将遍历的网站,这个网站的任意一个URL都可以
-    domain="http://www.saiaodi.cn"
+    domain="https://www.chenruiyin.cn"
 
     //访问网络的超时，默认5秒 。
     //从开始发起请求开始计时，5秒之后，无论网络处于何种状态都将断开连接，即使是正在接收。
